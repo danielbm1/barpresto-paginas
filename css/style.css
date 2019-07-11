@@ -64,6 +64,10 @@ ul > li {
   list-style: none !important;
 }
 
+ul > li > p {
+  margin-bottom: 0px;
+}
+
 .lista {
   color: #fb435b;
   font-weight: 400;
